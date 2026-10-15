@@ -27,3 +27,6 @@ Thumbs.db
 *.sqlite
 *.db
 scratch/
+
+# Local uv cache
+.uv-cache/
